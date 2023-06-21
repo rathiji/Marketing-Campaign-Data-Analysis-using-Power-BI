@@ -5,7 +5,12 @@ Sure, here is how you can write the Marketing Campaign Data Analysis project in 
 
 **Project Title:** Marketing Campaign Data Analysis using Power BI
 
-**Project Objective:** To use Power BI to analyze and interpret data about marketing campaigns.
+**Project Objective:
+Identified trends and patterns in marketing campaign data.
+Developed insights that can be used to improve the performance of marketing campaigns.
+Created a dashboard and report that show the performance of marketing campaigns over time.
+Presented the findings of the project to the marketing team and senior management.
+These objectives are clear, concise, and measurable. They also demonstrate the skills and experience that you have in marketing campaign data analysis.
 
 **Project Scope:** The project will focus on analyzing the following metrics:
 
